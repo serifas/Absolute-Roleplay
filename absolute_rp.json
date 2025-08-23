@@ -7,7 +7,7 @@
     "InternalName": "AbsoluteRoleplay",
     "AssemblyVersion": "0.0.2.0",
     "TestingAssemblyVersion": "0.0.2.0",
-    "RepoUrl": "https://github.com/serifas/AbsoluteRP",
+    "RepoUrl": "https://github.com/serifas/Absolute-Roleplay",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
@@ -22,14 +22,6 @@
     "DownloadLinkTesting": "https://github.com/serifas/Absolute-Roleplay/releases/download/dev/latest.zip",
     "DownloadLinkUpdate": "https://github.com/serifas/Absolute-Roleplay/releases/download/dev/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/refs/heads/main/images/icon.png",
-    "ImageUrls": [
-        "https://i.ibb.co/4ZZttNsp/bio.png",
-        "https://i.ibb.co/XZTWWFCB/gallery.png",
-        "https://i.ibb.co/v4g91KVH/info.png",
-        "https://i.ibb.co/MDT87Wnq/inventory.png",
-        "https://i.ibb.co/Kj6dznwJ/story.png",
-        "https://i.ibb.co/Qj6mmS6C/talents.png"
-      ],
     "Tags": [
         "Roleplay",
         "RP",
