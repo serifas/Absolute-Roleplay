@@ -31,10 +31,10 @@ Create your own layouts and even use a html-like tag system to create your own l
 PRIVACY:
 Set your profile to private so only whitelisted players can see it.
 
-![img1.](https://github.com/serifas/AbsoluteRoleplay/raw/main/images/bio.png)
-![img2.](https://github.com/serifas/AbsoluteRoleplay/raw/main/images/story.png)
-![img3.](https://github.com/serifas/AbsoluteRoleplay/raw/main/images/inventory.png)
-![img4.](https://github.com/serifas/AbsoluteRoleplay/raw/main/images/talents.png)
-![img5.](https://github.com/serifas/AbsoluteRoleplay/raw/main/images/info.png)
-![img5.](https://github.com/serifas/AbsoluteRoleplay/raw/main/images/gallery.png)
+![img1.](https://ibb.co/tMMKKCZD)
+![img2.](https://ibb.co/fY7XXrxR)
+![img3.](https://ibb.co/SwWSN95P)
+![img4.](https://ibb.co/hR5XVhsp)
+![img5.](https://ibb.co/vx1pv9YS)
+![img5.](https://ibb.co/WpcKK8cP)
 
