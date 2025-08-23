@@ -1,4 +1,9 @@
 ![logo.](https://github.com/serifas/AbsoluteRoleplay/blob/main/images/icon.png)
+# Install
+
+Add the following to your FFXIV Custom Repositories:
+
+`https://raw.githubusercontent.com/serifas/Absolute-Roleplay/main/absolute_rp.json`
 
 # Absolute Roleplay
 
