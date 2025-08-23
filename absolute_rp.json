@@ -18,9 +18,9 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/serifas/AbsoluteRoleplay/refs/heads/main/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/serifas/AbsoluteRoleplay/refs/heads/main/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/serifas/AbsoluteRoleplay/refs/heads/main/latest.zip",
+    "DownloadLinkInstall": "https://github.com/serifas/AbsoluteRoleplay/releases/download/dev/latest.zip",
+    "DownloadLinkTesting": "https://github.com/serifas/AbsoluteRoleplay/releases/download/dev/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/serifas/AbsoluteRoleplay/releases/download/dev/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/serifas/AbsoluteRoleplay/refs/heads/main/images/icon.png",
     "ImageUrls": [
         "https://i.ibb.co/4ZZttNsp/bio.png",
