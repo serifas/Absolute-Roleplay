@@ -17,7 +17,6 @@
         "LoadRequiredState": 2,
         "LoadSync": true,
         "DownloadLinkInstall": "https://github.com/serifas/AbsoluteRoleplay/raw/main/latest.zip",
-        "DownloadLinkTesting": "https://github.com/serifas/AbsoluteRoleplay/raw/main/latest.zip",
         "DownloadLinkUpdate": "https://github.com/serifas/AbsoluteRoleplay/raw/main/latest.zip",
         "IconUrl": "https://github.com/serifas/AbsoluteRoleplay/raw/main/images/icon.png",
         "ImageUrls": [
