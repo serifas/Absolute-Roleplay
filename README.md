@@ -31,10 +31,10 @@ Create your own layouts and even use a html-like tag system to create your own l
 PRIVACY:
 Set your profile to private so only whitelisted players can see it.
 
-![img1.](https://ibb.co/tMMKKCZD)
-![img2.](https://ibb.co/fY7XXrxR)
-![img3.](https://ibb.co/SwWSN95P)
-![img4.](https://ibb.co/hR5XVhsp)
-![img5.](https://ibb.co/vx1pv9YS)
-![img5.](https://ibb.co/WpcKK8cP)
+![img1.](https://i.ibb.co/4ZZttNsp/bio.png)
+![img2.](https://i.ibb.co/XZTWWFCB/gallery.png)
+![img3.](https://i.ibb.co/v4g91KVH/info.png)
+![img4.](https://i.ibb.co/MDT87Wnq/inventory.png)
+![img5.](https://i.ibb.co/Kj6dznwJ/story.png)
+![img5.](https://i.ibb.co/Qj6mmS6C/talents.png)
 
