@@ -40,8 +40,6 @@ PRIVACY:
 Set your profile to private so only whitelisted players can see it.
 
 ![img1.](https://i.ibb.co/4ZZttNsp/bio.png)
-![img2.](https://i.ibb.co/XZTWWFCB/gallery.png)
-![img3.](https://i.ibb.co/v4g91KVH/info.png)
 ![img4.](https://i.ibb.co/MDT87Wnq/inventory.png)
 ![img5.](https://i.ibb.co/Kj6dznwJ/story.png)
 ![img5.](https://i.ibb.co/Qj6mmS6C/talents.png)
