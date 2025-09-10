@@ -8,7 +8,7 @@ Add the following to your FFXIV Custom Repositories:
 # Absolute Roleplay
 
 > [!WARNING]  
-> Absolute Roleplay does not replace Mare-Sync, this plugin has the primary function of streamlining roleplay for users by allowing the creation of profiles, and more.
+> Absolute Roleplay is currently in beta.
 
 Absolute Roleplay is a plugin for FFXIV focused on streamlining roleplay for the end users.
 For now this plugin is mainly focused on roleplay profiles such as one you would normally create with carrd.
