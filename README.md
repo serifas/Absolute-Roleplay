@@ -39,7 +39,6 @@ Create your own layouts and even use a html-like tag system to create your own l
 PRIVACY:
 Set your profile to private so only whitelisted players can see it.
 
-![img1.](https://i.ibb.co/4ZZttNsp/bio.png)
 ![img4.](https://i.ibb.co/MDT87Wnq/inventory.png)
 ![img5.](https://i.ibb.co/Kj6dznwJ/story.png)
 ![img5.](https://i.ibb.co/Qj6mmS6C/talents.png)
