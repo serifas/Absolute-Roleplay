@@ -5,8 +5,8 @@
     "Punchline": "Create and share roleplay profiles in game",
     "Description": "Create and share roleplay profiles in game.",
     "InternalName": "AbsoluteRP",
-    "AssemblyVersion": "0.0.2.30",
-    "TestingAssemblyVersion": "0.0.2.30",
+    "AssemblyVersion": "0.0.2.31",
+    "TestingAssemblyVersion": "0.0.2.31",
     "RepoUrl": "https://github.com/serifas/AbsoluteRP",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
@@ -22,13 +22,6 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/refs/heads/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/refs/heads/main/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/refs/heads/main/images/icon.png",
-    "ImageUrls": [
-        "https://i.ibb.co/XZTWWFCB/gallery.png",
-        "https://i.ibb.co/v4g91KVH/info.png",
-        "https://i.ibb.co/MDT87Wnq/inventory.png",
-        "https://i.ibb.co/Kj6dznwJ/story.png",
-        "https://i.ibb.co/Qj6mmS6C/talents.png"
-      ],
     "Tags": [
         "Roleplay",
         "RP",
