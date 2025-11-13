@@ -19,9 +19,18 @@
     "LoadRequiredState": 2,
     "LoadSync": true,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/refs/heads/main/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/refs/heads/main/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/refs/heads/main/testing.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/refs/heads/main/latest.zip",
+    "ImageUrls":[
+    "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/main/images/bio.png",
+    "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/main/images/gallery.png",
+    "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/main/images/info.png",
+    "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/main/images/inventory.png",
+    "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/main/images/story.png",
+    "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/main/images/talents.png"
+    ],
     "IconUrl": "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/refs/heads/main/images/icon.png",
+    
     "Tags": [
         "Roleplay",
         "RP",
